@@ -1,0 +1,36 @@
+[33mcommit 20d548d9073733b6bbba22326d6a3cb325c3f4be[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 1c62bfc 0a4b7ad
+Author: Almog <almo321@gmail.com>
+Date:   Wed Feb 1 12:47:07 2023 +0200
+
+    deleted lines.txt
+
+[33mcommit 1c62bfc03461f211e3385a14ed8589050137b2eb[m
+Author: Almog <almo321@gmail.com>
+Date:   Wed Feb 1 12:45:46 2023 +0200
+
+    deleted lines.txt
+
+[33mcommit 0a4b7ad2b38b6ccffc33e22401b1301a4e723d68[m
+Author: Almog <almo321@gmail.com>
+Date:   Wed Feb 1 12:37:29 2023 +0200
+
+    added 5 lines to etc file
+
+[33mcommit e114c4159e10e8ae6f019acd03ac84ee3cff20da[m
+Author: Almog <almo321@gmail.com>
+Date:   Wed Feb 1 12:29:42 2023 +0200
+
+    mistake
+
+[33mcommit 7b0f9105dfd496f7b3b2eb2f43ad0995f27e3c7f[m
+Author: Almog <almo321@gmail.com>
+Date:   Wed Feb 1 12:15:16 2023 +0200
+
+    added 2 tree names to trees
+
+[33mcommit a37fb81cc2c4f88481f08e29e4d2bf4cf363de33[m
+Author: Almog <almo321@gmail.com>
+Date:   Wed Feb 1 12:11:52 2023 +0200
+
+    added 2 new files
